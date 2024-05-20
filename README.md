@@ -1,4 +1,4 @@
-# ProyectoBD: Registration System
+# Cub Scouts Troop 82: Registration System
 
 ## Link
 https://ada.uprrp.edu/~jose.plaud1/proyectoBD/client/index.php
